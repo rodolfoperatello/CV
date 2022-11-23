@@ -3,18 +3,7 @@
 ### rodolfoperatello@hotmail.com
 https://www.linkedin.com/in/rodolfo-peratello-b78b8314b/
 
-```json
-   // code for coloring
-```
-```html
-   // code for coloring
-```
-```js
-   // code for coloring
-```
-```css
-   // code for coloring
-```
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 RESUME
 Willing to work with new technologies and share knowledge. Has good communication and responsibility,
