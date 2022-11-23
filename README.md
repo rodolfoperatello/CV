@@ -11,7 +11,7 @@ for professional success. Always in search of knowledge to overcome challenges w
 
 ## WORK EXPERIENCE
 ### Backend Software Engineer (Remote)
-### Rain Instant Payment – Los Angeles, USA
+### Rain Instant Payment (Los Angeles, USA)
 ### 09/06/2021 – 11/21/2022
 
 Rain is a financial wellness benefit that possibility employees withdraw (at a small fee) up to half of their
@@ -32,22 +32,29 @@ Tech Stack:
 - Testify for Unit test;
 - Mockery for mocks generation for unit tests;
 - Goose for database migration.
+
 ✔ AWS:
 - DynamoDB, RDS, ECS, S3, SQS, SNS, Lambda, CloudWatch, Secret Manager, KMS.
+
 ✔ Architecture:
 - Hexagonal;
 - Microservices.
+
 ✔ Message Broker:
 - RabbitMQ;
 - Kafka.
+
 ✔ Databases:
 - Postgres;
 - DynamoDB.
+
 ✔ Infrastructure:
 - Docker;
 - Terraform.
+
 ✔ API Modeling:
 - Open API 3.0.
+
 ✔ Tools:
 - Datadog (Log Monitoring);
 - Flagsmith for application feature flagging;
@@ -55,9 +62,10 @@ Tech Stack:
 - Jira and Confluence;
 - Git.
 
-Backend Software Engineer (Remote)
-Invillia – Desenvolvimento de Produtos digitais LTDA - Araraquara, Brazil
-03/08/2021 – 08/31/2021
+## Backend Software Engineer (Remote)
+### Invillia – Desenvolvimento de Produtos digitais LTDA (Araraquara, Brazil)
+### 03/08/2021 – 08/31/2021
+
 PagSeguro is the pioneer and leader in the Brazilian online payment market. Belonging to UOL, the leading
 Brazilian internet company, PagSeguro has in its portfolio payment solutions for e-commerce, serving
 virtual stores and also for commercial establishments.
