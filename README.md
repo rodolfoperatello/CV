@@ -104,9 +104,9 @@ Tech Stack:
 
 ## EDUCATION
 ### Analysis System And Development
-### UNINTER - Centro Universitário Internacional
-### 2020 – 2022
+#### UNINTER - Centro Universitário Internacional
+#### 2020 – 2022
 
 ### Materials Engineering
-### UTFPR – Universidade Tecnológica Federal do Paraná
-### 2012 – 2018
+#### UTFPR – Universidade Tecnológica Federal do Paraná
+#### 2012 – 2018
