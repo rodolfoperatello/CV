@@ -63,7 +63,7 @@ Tech Stack:
 - Jira and Confluence;
 - Git.
 
-## Backend Software Engineer (Remote)
+#### Backend Software Engineer (Remote)
 #### Invillia – Desenvolvimento de Produtos digitais LTDA (Araraquara, Brazil)
 #### 03/08/2021 – 08/31/2021
 
