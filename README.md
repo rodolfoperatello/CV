@@ -107,6 +107,7 @@ Tech Stack:
 #### UNINTER - Centro Universitário Internacional
 #### 2020 – 2022
 
+
 ### Materials Engineering
 #### UTFPR – Universidade Tecnológica Federal do Paraná
 #### 2012 – 2018
