@@ -3,16 +3,17 @@
 ### rodolfoperatello@hotmail.com
 https://www.linkedin.com/in/rodolfo-peratello-b78b8314b/
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+## RESUME
 
-RESUME
 Willing to work with new technologies and share knowledge. Has good communication and responsibility,
 as well as being observant and critical to achieve the best result. Shares the idea that teamwork is essential
 for professional success. Always in search of knowledge to overcome challenges with excellence
-WORK EXPERIENCE
+
+## WORK EXPERIENCE
 Backend Software Engineer (Remote)
 Rain Instant Payment – Los Angeles, USA
 09/06/2021 – 11/21/2022
+
 Rain is a financial wellness benefit that possibility employees withdraw (at a small fee) up to half of their
 earned-wage-on-demand anytime. As a Backend Software Engineer, I was designing and creating
 solutions based on microservices architecture following hexagonal architecture pattern and agility methods
