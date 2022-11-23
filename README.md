@@ -14,7 +14,7 @@ for professional success. Always in search of knowledge to overcome challenges w
 #### Rain Instant Payment (Los Angeles, USA)
 #### 09/06/2021 – 11/21/2022
 
-Rain is a financial wellness benefit that possibility employees withdraw (at a small fee) up to half of their
+<p align="justify">Rain is a financial wellness benefit that possibility employees withdraw (at a small fee) up to half of their
 earned-wage-on-demand anytime. As a Backend Software Engineer, I was designing and creating
 solutions based on microservices architecture following hexagonal architecture pattern and agility methods
 Scrum and Kanban.
@@ -24,7 +24,7 @@ File-based Integration with several employers. The deduction file consists of a 
 sum of all withdrawal requests made by employees of a given employer. To ensure security and reliability
 in confidential information the files are encrypted with a PGP key.
 Provide APIs to a tooling portal so the invoices and the deduction file can be managed internally and
-externally by employers and operation teams.
+externally by employers and operation teams.</p>
 
 Tech Stack:
 
@@ -67,14 +67,14 @@ Tech Stack:
 #### Invillia – Desenvolvimento de Produtos digitais LTDA (Araraquara, Brazil)
 #### 03/08/2021 – 08/31/2021
 
-PagSeguro is the pioneer and leader in the Brazilian online payment market. Belonging to UOL, the leading
+<p align="justify">PagSeguro is the pioneer and leader in the Brazilian online payment market. Belonging to UOL, the leading
 Brazilian internet company, PagSeguro has in its portfolio payment solutions for e-commerce, serving
 virtual stores and also for commercial establishments.
 As a Backend Software Engineer, I was designing and creating solutions based on microservices
 architecture with the responsibility to migrate legacy applications from a monolith to their respective domain
 based microservices.
 The applications were responsible for identifying the card brand (credit or debit) during a transaction and
-applying custom fees based on the plan which was contracted by the seller.
+applying custom fees based on the plan which was contracted by the seller.</p>
 
 Tech Stack:
 
