@@ -27,6 +27,7 @@ Provide APIs to a tooling portal so the invoices and the deduction file can be m
 externally by employers and operation teams.
 
 Tech Stack:
+
 ✔ Golang:
 - Uber Zap Logger;
 - Testify for Unit test;
@@ -76,30 +77,36 @@ The applications were responsible for identifying the card brand (credit or debi
 applying custom fees based on the plan which was contracted by the seller.
 
 Tech Stack:
-● Java 11 and Kotlin:
-✔ Spring Boot;
-✔ Spring Data;
-✔ Gradle;
-✔ Junit and Mockito for unit tests.
-● Message Broker:
-✔ Kafka.
-● Databases:
-✔ MySQL.
-● Integration:
-✔ Jenkins (CI/CD).
-● API Modeling:
-✔ Open API 3.0.
-● Tools:
-✔ Splunk (Log Monitoring);
-✔ Postman for tests and mocking purposes;
-✔ Confluence and Jira;
-✔ Git.
 
-EDUCATION
-Analysis System And Development
-UNINTER - Centro Universitário Internacional
-2020 – 2022
+✔ Java 11 and Kotlin:
+- Spring Boot;
+- Spring Data;
+- Gradle;
+- Junit and Mockito for unit tests.
 
-Materials Engineering
-UTFPR – Universidade Tecnológica Federal do Paraná
-2012 – 2018
+✔ Message Broker:
+- Kafka.
+
+✔ Databases:
+- MySQL.
+
+✔ Integration:
+- Jenkins (CI/CD).
+
+✔ API Modeling:
+- Open API 3.0.
+
+✔ Tools:
+- Splunk (Log Monitoring);
+- Postman for tests and mocking purposes;
+- Confluence and Jira;
+- Git.
+
+## EDUCATION
+### Analysis System And Development
+### UNINTER - Centro Universitário Internacional
+### 2020 – 2022
+
+### Materials Engineering
+### UTFPR – Universidade Tecnológica Federal do Paraná
+### 2012 – 2018
