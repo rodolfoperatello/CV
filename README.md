@@ -1,8 +1,7 @@
 # Rodolfo Peratello
-Software Engineer – Londrina, Brazil
-rodolfoperatello@hotmail.com
+## Software Engineer – Londrina, Brazil
+### rodolfoperatello@hotmail.com
 https://www.linkedin.com/in/rodolfo-peratello-b78b8314b/
-https://github.com/rodolfoperatello
 
 RESUME
 Willing to work with new technologies and share knowledge. Has good communication and responsibility,
