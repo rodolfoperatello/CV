@@ -3,6 +3,19 @@
 ### rodolfoperatello@hotmail.com
 https://www.linkedin.com/in/rodolfo-peratello-b78b8314b/
 
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
+
 RESUME
 Willing to work with new technologies and share knowledge. Has good communication and responsibility,
 as well as being observant and critical to achieve the best result. Shares the idea that teamwork is essential
