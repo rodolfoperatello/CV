@@ -5,9 +5,9 @@ https://www.linkedin.com/in/rodolfo-peratello-b78b8314b/
 
 ## RESUME
 
-Willing to work with new technologies and share knowledge. Has good communication and responsibility,
+<p align="justify"> Willing to work with new technologies and share knowledge. Has good communication and responsibility,
 as well as being observant and critical to achieve the best result. Shares the idea that teamwork is essential
-for professional success. Always in search of knowledge to overcome challenges with excellence
+for professional success. Always in search of knowledge to overcome challenges with excellence </p>
 
 ## WORK EXPERIENCE
 ### Backend Software Engineer (Remote)
