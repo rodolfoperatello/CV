@@ -10,8 +10,8 @@ as well as being observant and critical to achieve the best result. Shares the i
 for professional success. Always in search of knowledge to overcome challenges with excellence </p>
 
 ## WORK EXPERIENCE
-### Backend Software Engineer (Remote)
-### Rain Instant Payment (Los Angeles, USA)
+#### Backend Software Engineer (Remote)
+#### Rain Instant Payment (Los Angeles, USA)
 #### 09/06/2021 – 11/21/2022
 
 Rain is a financial wellness benefit that possibility employees withdraw (at a small fee) up to half of their
@@ -64,8 +64,8 @@ Tech Stack:
 - Git.
 
 ## Backend Software Engineer (Remote)
-### Invillia – Desenvolvimento de Produtos digitais LTDA (Araraquara, Brazil)
-### 03/08/2021 – 08/31/2021
+#### Invillia – Desenvolvimento de Produtos digitais LTDA (Araraquara, Brazil)
+#### 03/08/2021 – 08/31/2021
 
 PagSeguro is the pioneer and leader in the Brazilian online payment market. Belonging to UOL, the leading
 Brazilian internet company, PagSeguro has in its portfolio payment solutions for e-commerce, serving
