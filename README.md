@@ -12,7 +12,7 @@ for professional success. Always in search of knowledge to overcome challenges w
 ## WORK EXPERIENCE
 ### Backend Software Engineer (Remote)
 ### Rain Instant Payment (Los Angeles, USA)
-### 09/06/2021 – 11/21/2022
+#### 09/06/2021 – 11/21/2022
 
 Rain is a financial wellness benefit that possibility employees withdraw (at a small fee) up to half of their
 earned-wage-on-demand anytime. As a Backend Software Engineer, I was designing and creating
