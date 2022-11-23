@@ -10,9 +10,9 @@ as well as being observant and critical to achieve the best result. Shares the i
 for professional success. Always in search of knowledge to overcome challenges with excellence
 
 ## WORK EXPERIENCE
-Backend Software Engineer (Remote)
-Rain Instant Payment – Los Angeles, USA
-09/06/2021 – 11/21/2022
+### Backend Software Engineer (Remote)
+### Rain Instant Payment – Los Angeles, USA
+### 09/06/2021 – 11/21/2022
 
 Rain is a financial wellness benefit that possibility employees withdraw (at a small fee) up to half of their
 earned-wage-on-demand anytime. As a Backend Software Engineer, I was designing and creating
@@ -28,33 +28,32 @@ externally by employers and operation teams.
 
 Tech Stack:
 ✔ Golang:
-o Uber Zap Logger;
-o Testify for Unit test;
-o Mockery for mocks generation for unit tests;
-o Goose for database migration.
+- Uber Zap Logger;
+- Testify for Unit test;
+- Mockery for mocks generation for unit tests;
+- Goose for database migration.
 ✔ AWS:
-o DynamoDB, RDS, ECS, S3, SQS, SNS, Lambda, CloudWatch, Secret Manager, KMS.
+- DynamoDB, RDS, ECS, S3, SQS, SNS, Lambda, CloudWatch, Secret Manager, KMS.
 ✔ Architecture:
-o Hexagonal;
-o Microservices.
+- Hexagonal;
+- Microservices.
 ✔ Message Broker:
-o RabbitMQ;
-o Kafka.
-
+- RabbitMQ;
+- Kafka.
 ✔ Databases:
-o Postgres;
-o DynamoDB.
+- Postgres;
+- DynamoDB.
 ✔ Infrastructure:
-o Docker;
-o Terraform.
+- Docker;
+- Terraform.
 ✔ API Modeling:
-o Open API 3.0.
+- Open API 3.0.
 ✔ Tools:
-o Datadog (Log Monitoring);
-o Flagsmith for application feature flagging;
-o Postman for tests and mocking purposes;
-o Jira and Confluence;
-o Git.
+- Datadog (Log Monitoring);
+- Flagsmith for application feature flagging;
+- Postman for tests and mocking purposes;
+- Jira and Confluence;
+- Git.
 
 Backend Software Engineer (Remote)
 Invillia – Desenvolvimento de Produtos digitais LTDA - Araraquara, Brazil
